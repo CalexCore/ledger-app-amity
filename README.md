@@ -1,4 +1,4 @@
-# ledger-app-nerva
+# ledger-app-amity
 
 Build from source:  
 Install dependencies: 
